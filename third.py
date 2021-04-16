@@ -17,3 +17,13 @@ if password == "secret":
 else:
     print("Access denied")
 input("\n\nPress the enter key to exit")
+
+
+#while loops
+
+response = ""
+while response != "Because.":
+    response = input("why?\n")
+print("Oh.  Okay.")
+input("\n\nPress the enter key to exit")
+
